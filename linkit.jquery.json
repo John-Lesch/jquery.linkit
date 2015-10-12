@@ -1,0 +1,33 @@
+{
+    "name": "linkit",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any elemnt into a link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "John Lesch",
+        "url": "http://leschinc.com"
+    },
+    "maintainers": [
+        {
+            "name": "John Lesch",
+            "email": "this@that.com",
+            "url": "http://leschinc.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/John-Lesch/jquery.linkit"
+        }
+    ],
+    "homepage": "https://github.com/John-Lesch/jquery.linkit",
+    "docs": "https://github.com/John-Lesch/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
